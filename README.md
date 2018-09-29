@@ -16,4 +16,4 @@ http://vfxmike.blogspot.jp/
 下面这个是在AndroidStudio的操作流程（天朝的童鞋需要翻墙）
 
 http://www.thegamecontriver.com/2015/04/android-plugin-unity-android-studio.html 
-
+https://lindenreid.wordpress.com/  Graphics tutorials
