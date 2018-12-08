@@ -17,3 +17,5 @@ http://vfxmike.blogspot.jp/
 
 http://www.thegamecontriver.com/2015/04/android-plugin-unity-android-studio.html <br> 
 https://lindenreid.wordpress.com/  Graphics tutorials
+
+http://anchan828.github.io/editor-manual/web/part1-editorwindow.html 编辑器拓展教程
